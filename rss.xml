@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[eastmeetswest]]></title>
+        <description><![CDATA[eastmeetswest]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 21:04:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>East Meets West is the only fully integrated consultancy, that can deliver all of the necessary steps required to launch your brand in Asia.</p>]]></description>
+            <link>undefinedbdb0711b-1efa-4145-a50b-9cf1168f0fae/index.html</link>
+            <guid isPermaLink="false">bdb0711b-1efa-4145-a50b-9cf1168f0fae</guid>
+            <pubDate>Fri, 04 Mar 2016 21:04:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
